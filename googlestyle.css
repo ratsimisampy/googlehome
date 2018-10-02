@@ -43,4 +43,23 @@ a:hover {
 	display: flex;
 	justify-content: center;
 	margin-top: 10px;
+}	
+
+footer {
+
+	background-color:   #f2edec;
+	
+}
+.country {
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-top-color: #808B96;
+	padding: 10px;
+	margin-top: 50px;
+}
+
+.otherLinks {
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-top-color: #808B96;
 }
